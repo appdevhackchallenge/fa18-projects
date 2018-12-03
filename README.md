@@ -263,3 +263,13 @@ Jacob Bee Ho Brown	jdb393	iOS
 iOS: https://github.com/jeremyfreedman/cuprojectteams/
 
 Backend: https://github.com/jeremyfreedman/cuprojectteams/
+
+## CornellSocialMedia
+Gonzalo Gonzalez-Pumariega	gg387	iOS\
+Philip O'Reggio	pno3	iOS\
+Alisa Lai	al766	Backend\
+Vivian Cheng	vc322	Design
+
+iOS: https://github.com/pnor/CornellSocialMedia
+
+Backend: https://github.com/pnor/CornellSocialMedia
