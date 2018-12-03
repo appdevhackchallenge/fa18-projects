@@ -123,7 +123,7 @@ Backend: https://github.com/gschultz49/challengeme-backend
 Cameron Hamidi	cah376	iOS\
 Elisabeth Finkel	esf76	Backend\
 Pinxuan Huang	ph437	iOS\
-Mary Ji	yj256	Design\
+Mary Ji	yj256	Design
 
 iOS: https://github.com/CameronHamidi/Hack-Challenge
 
@@ -133,7 +133,7 @@ Backend: https://github.com/esfinkel/hack-challenge-fall-2018
 Cora Wu	cjw322	iOS\
 Yuet Ming Leung	yl787	Backend\
 Katherine Go	ksg73	iOS\
-Danielle Zeller	dz99	Design\
+Danielle Zeller	dz99	Design
 
 iOS: https://github.com/cjw322/CornellCreatives
 
@@ -143,7 +143,7 @@ Backend: https://github.com/attilusleung/CornellCreatives
 Nikita Lang	nl465	iOS\
 Shane Yun	sy629	Design\
 Brandon Wong	byw4	Backend\
-Steve Yeh	sy458	Backend
+Steve Yeh	sy458	Backend\
 Xinye Liu	xl738	iOS
 
 iOS: https://github.com/NikitaLang/ZimRideHackathon
@@ -167,6 +167,7 @@ Qi Zhang	qz295	Design\
 Li Chai	lc934	iOS
 
 iOS: https://github.com/joiewyng/OfficeHours
+
 Backend: https://github.com/PriyankaDilip/class-connect-backend
 
 ## Nooks	
