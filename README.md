@@ -242,3 +242,12 @@ Amy You	amy33	iOS
 iOS: https://github.coecis.cornell.edu/xl637/APPDEV-FINAL
 
 Backend: https://github.coecis.cornell.edu/xl637/APPDEV-FINAL
+
+## Laundry App
+Ethan Fine	ef376	Backend\
+Sage Lee	sl2364	iOS\
+Daisy Shu	dds86	iOS\
+Samantha Chu	sc2855	Design
+
+iOS: https://github.com/sageserin/laundry_day
+Backend: https://github.com/usubzero/Laundry-App-Backend
