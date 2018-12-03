@@ -252,3 +252,14 @@ Samantha Chu	sc2855	Design
 iOS: https://github.com/sageserin/laundry_day
 
 Backend: https://github.com/usubzero/Laundry-App-Backend
+
+## CUProjectTeams
+Jeremy Freedman	jmf365	Backend\
+Dimitri Shylapnikov	ds2226	Backend\
+Thomas Lu	tal82	Design\
+Nicholas Yuwono	nly7	iOS\
+Jacob Bee Ho Brown	jdb393	iOS
+
+iOS: https://github.com/jeremyfreedman/cuprojectteams/
+
+Backend: https://github.com/jeremyfreedman/cuprojectteams/
