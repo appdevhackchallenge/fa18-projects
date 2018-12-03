@@ -250,4 +250,5 @@ Daisy Shu	dds86	iOS\
 Samantha Chu	sc2855	Design
 
 iOS: https://github.com/sageserin/laundry_day
+
 Backend: https://github.com/usubzero/Laundry-App-Backend
