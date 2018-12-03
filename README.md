@@ -167,6 +167,7 @@ Qi Zhang	qz295	Design\
 Li Chai	lc934	iOS
 
 iOS: https://github.com/joiewyng/OfficeHours
+Backend: https://github.com/PriyankaDilip/class-connect-backend
 
 ## Nooks	
 Andrew Wang	ayw24	iOS\
