@@ -7,6 +7,7 @@ Avani Aggrwal	aa974	iOS
 Yanlam Ko	yk396	iOS
 
 iOS: https://github.com/YKo20010/GoalKeeperACRY
+
 Backend: https://github.com/YKo20010/GoalKeeperACRY
 
 ## Daily Scheduler	
@@ -16,6 +17,7 @@ Songyu Gu	sg776	iOS
 Yuena Chen	yc2433	Backend
 
 iOS: https://github.com/songyugu/daily-scheduler-ios
+
 Backend: https://github.com/yiyuan35/daily-scheduler-backend
 
 ## Moodify	
@@ -25,6 +27,7 @@ Anna Shats	as2639	Backend
 Catie Rencricca	cr498	iOS
 
 iOS: https://github.com/crencricca/moodify
+
 Backend: https://github.com/annashats/moodify
 
 ## Gradiate	
@@ -34,6 +37,7 @@ Nainika D'Souza	nmd65	iOS
 Alisa Wong	aw695	Design
 
 iOS: https://github.coecis.cornell.edu/fou3/Gradiate_2.0
+
 Backend: https://github.coecis.cornell.edu/fou3/Gradiate_2.0
 
 ## MakeUp Recommender	
@@ -43,6 +47,7 @@ Rohan Upadhyayula	ru38	Backend
 Dray Farley	cf446	Backend
 	
 iOS: https://github.com/rohan-upad/makeup-app
+
 Backend: https://github.com/rohan-upad/makeup-app
 
 ## Spotify Trends	
@@ -52,6 +57,7 @@ Jaemok Yoon	jy392	Backend
 Medhavi Gandhi	mg2252 iOS/Design
 
 iOS: https://github.com/medhavi27/iOSSpotifyTrends
+
 Backend: https://github.com/grantIee/Spotilyze-Backend
 
 ## Findr
@@ -60,6 +66,7 @@ Cole Horvath	ceh279	iOS
 Rodrigo Taipe	rt363	iOS
 
 iOS: https://github.com/rodtai/Findr_iOS
+
 Backend: https://github.com/rodtai/Findr_Backend
 
 ## Confessions	
@@ -69,6 +76,7 @@ Daniel Ra	dnr44	Design
 Lucy Xu	llx2	Backend
 
 iOS: https://github.com/crystaltang77/Confessions
+
 Backend: https://github.com/lucyxubroad/confessions-ios-backend
 
 ## Flexxit	
@@ -77,6 +85,7 @@ Emily Reynolds	emr249	iOS
 Allison Portis	amp389	Backend
 
 iOS: https://github.coecis.cornell.edu/amp389/flexxit3.0
+
 Backend: https://github.coecis.cornell.edu/amp389/flexxit3.0
 
 ## FreeFood	
@@ -87,6 +96,7 @@ Zhen Lu	zl569	Backend
 Vicky Chou	vc265	Design
 
 iOS: https://github.com/lxywizard/appdev-hack
+
 Backend: https://github.com/lxywizard/appdev-hack
 
 ## Tutor	
@@ -96,6 +106,7 @@ Eli Zhang	ekz5	iOS
 Alanna Zhou	asz33	Backend
 
 iOS: https://github.com/alanna-zhou/hackchallenge
+
 Backend: https://github.com/alanna-zhou/hackchallenge
 
 ## ChallengeMe	
@@ -105,6 +116,7 @@ Jason Chen	jwc297	iOS
 Jack Wang	jw2445	Design
 
 iOS: https://github.com/seancorc/ChallengeMe
+
 Backend: https://github.com/gschultz49/challengeme-backend
 
 ## CollabIT	
@@ -114,6 +126,7 @@ Pinxuan Huang	ph437	iOS
 Mary Ji	yj256	Design
 
 iOS: https://github.com/CameronHamidi/Hack-Challenge
+
 Backend: https://github.com/esfinkel/hack-challenge-fall-2018
 
 ## Cornell Creatives	
@@ -123,6 +136,7 @@ Katherine Go	ksg73	iOS
 Danielle Zeller	dz99	Design
 
 iOS: https://github.com/cjw322/CornellCreatives
+
 Backend: https://github.com/attilusleung/CornellCreatives
 
 ## ZimRide Mobile	
@@ -133,6 +147,7 @@ Steve Yeh	sy458	Backend
 Xinye Liu	xl738	iOS
 
 iOS: https://github.com/NikitaLang/ZimRideHackathon
+
 Backend: https://github.com/NikitaLang/ZimRideHackathon
 
 ## Workout Routines	
@@ -142,6 +157,7 @@ Jonathan Anderson	ja523	Backend
 Marcella Imoisili	mii7	Backend
 
 iOS: https://github.com/treyburrell/WorkoutApplication
+
 Backend: https://github.com/johnathananderson/Workout-Routines
 
 ## OH!	
@@ -159,6 +175,7 @@ Amanda Yang	ay288	Design
 Amartya Utkarsh	au87	Backend
 
 iOS: https://github.com/mjs698/library-hours-hack-challenge
+
 Backend: https://github.com/AmartyaU/LibraryHours_IOSApp_backend
 
 ## InterviewMe	
@@ -167,6 +184,7 @@ Carina Crabbe	cmc464	iOS
 Jaime Luengo Rozas	jl3752	Backend
 
 iOS: https://github.coecis.cornell.edu/ma796/interviewOutlines
+
 Backend: https://github.coecis.cornell.edu/jl3752/interview_outline_backend
 
 ## Groupie	
@@ -175,6 +193,7 @@ Xiaoxu Guo	xg256	Backend
 Yisu Zheng	yz689	Design
 Ruiqi Zhu	rz327	iOS
 iOS: https://github.coecis.cornell.edu/xg256/Groupie
+
 Backend: https://github.coecis.cornell.edu/xg256/Groupie
 
 ## Social Stocks	
@@ -184,6 +203,7 @@ Omar Bekdash	ob47	iOS
 Max Baduk	mb2474	Backend
 
 iOS: https://github.com/OmarRyanBekdash/SocialStocks/
+
 Backend: https://github.com/OmarRyanBekdash/SocialStocks/
 
 ## Swarm	
@@ -209,6 +229,7 @@ Yuwei Ye	yy453	iOS
 Rikako Okuma	ro99	Backend
 
 iOS: https://github.com/ViviYe/Ios-HackChallenege
+
 Backend: https://github.com/Rikako11/BudgetUniversityAPI
 
 ## Course Finder	
@@ -218,4 +239,5 @@ Michelle Wang	mqw4	Design
 Amy You	amy33	iOS
 
 iOS: https://github.coecis.cornell.edu/xl637/APPDEV-FINAL
+
 Backend: https://github.coecis.cornell.edu/xl637/APPDEV-FINAL
