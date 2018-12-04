@@ -176,7 +176,7 @@ Mathew Scullin	mjs698	iOS\
 Amanda Yang	ay288	Design\
 Amartya Utkarsh	au87	Backend
 
-iOS: https://github.com/mjs698/library-hours-hack-challenge
+iOS: https://github.com/mjs698/Nooks
 
 Backend: https://github.com/AmartyaU/LibraryHours_IOSApp_backend
 
